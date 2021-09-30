@@ -9,15 +9,23 @@
 .portfolio {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
   width: 100%;
+  height: auto;
 }
 
 .box_col {
   display: flex;
   justify-content: space-evenly;
+  width: 70%;
+  height: auto;
 }
 
 .portfolio__item {
   margin: 5px;
   padding: auto;
+  width: 70%;
+  height: auto;
 }

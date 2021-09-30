@@ -6,6 +6,7 @@ import Pic4 from "../img/Pic4.jpg";
 import Pic5 from "../img/Pic5.jpg";
 import Pic6 from "../img/Pic6.jpg";
 import Pic7 from "../img/Pic7.jpg";
+import Pic8 from "../img/Pic8.jpg";
 
 import "../styles/MyWork.css";
 
@@ -39,6 +40,9 @@ const MyWork = () => {
         </a>
         <a href="#portfolio" className="portfolio__item">
           <img src={Pic4} alt="" className="portfolio__img" />
+        </a>
+        <a href="#portfolio" className="portfolio__item">
+          <img src={Pic8} alt="" className="portfolio__img" />
         </a>
         <a href="#portfolio" className="portfolio__item">
           <img src={Pic5} alt="" className="portfolio__img" />
