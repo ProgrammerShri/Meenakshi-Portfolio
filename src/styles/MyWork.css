@@ -8,6 +8,16 @@
 
 .portfolio {
   display: flex;
+  flex-direction: column;
   width: 100%;
-  object-fit: contain;
+}
+
+.box_col {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.portfolio__item {
+  margin: 5px;
+  padding: auto;
 }
