@@ -1,0 +1,13 @@
+/* My Work section */
+
+.my-work {
+  background-color: var(--color-dark);
+  color: var(--color-light);
+  text-align: center;
+}
+
+.portfolio {
+  display: flex;
+  width: 100%;
+  object-fit: contain;
+}
