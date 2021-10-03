@@ -1,8 +1,4 @@
-https://foxdesign-ie.github.io/GraphicDesigner-Portfolio
 
-Used technologies: React.js, CSS variables, CSS Grid, CSS Flexbox, BEM, JS menu hamburger
-
-___________________________________________________________________________________________
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
