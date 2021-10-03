@@ -15,7 +15,7 @@ const Footer = () => {
         <li className="social-list__item">
           <a
             className="social-list__link"
-            href="https://www.instagram.com/meenakshi._.official/"
+            href="https://www.instagram.com/the___illuminator/"
           >
             <i className="fab fa-instagram"></i>
           </a>

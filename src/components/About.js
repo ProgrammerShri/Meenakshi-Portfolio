@@ -17,13 +17,12 @@ const About = () => {
           </p>
           <p>
             I am doing Graphic Desiging to enhance my designing skills as well
-            as i am learning Data Structre and Algorithm, Problem Solving also
-            using C++ for develop my thinking skills in field of computer
-            science.
+            as I am learning Data Structure and Algorithm, Problem Solving using
+            C++ to enhance my thinking skills in the field of computer science.
           </p>
           <p>
-            I am just an intermediate but i am open for work to achive my goal
-            with organization goal as well as i want to improve my skills.
+            I am just an intermediate but I am open for work to achive my goal
+            with organization goal as well as I want to develop my skills.
           </p>
         </b>
       </div>
